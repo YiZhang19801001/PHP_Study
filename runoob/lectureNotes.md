@@ -19,6 +19,9 @@ class Car
 }
 ?>
 ```
+- `var_dump`可以输出变量的类型和数值。可以用于代码调试。
+
 #### print vs echo
+
 - print has return value and always be "1" and only output one string
 - echo has not return value, and could output multiple strings in a row
